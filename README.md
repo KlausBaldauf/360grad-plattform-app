@@ -45,7 +45,7 @@ cd 360grad-Plattform-App
 ## Mitwirken
 
 Du willst Feedback geben oder dich beteiligen?  
-👉 Schreibe eine Nachricht an [klausbaldauf@email.de] oder eröffne ein GitHub Issue!
+👉 Schreibe eine Nachricht an [klaus@baldauf.co] oder eröffne ein GitHub Issue!
 
 ## Lizenz
 
